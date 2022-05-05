@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "name": "l4",
+  "description": "This assignment will help you set up and interact with a database using Express.js and better-sqlite.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a04-ashwins-unc.git"
+  },
+  "author": "ye",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a04-ashwins-unc/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a04-ashwins-unc#readme"
+}
